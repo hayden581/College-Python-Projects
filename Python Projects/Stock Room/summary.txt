@@ -1,0 +1,5 @@
+Football: 3
+Shin pads: 2
+Water bottle: 1
+Gum shield: 1
+Swim goggles: 1
